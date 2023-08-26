@@ -77,4 +77,4 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 - *2019.06 - 2019.06*, Engineering Construction Management, China Telecom Limited, Quanzhou, China.
 
 # 🪐 Other
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='-Other'></span>
