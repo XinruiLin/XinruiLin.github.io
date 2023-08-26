@@ -20,7 +20,7 @@ redirect_from:
 
 I am a Master's student in Advanced Design Informatics (MSc-21 months) at the School of Informatics, [the University of Edinburgh](https://www.ed.ac.uk/). Expected graduation in July 2024. I spent four years of my undergraduate studies at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), advised by [Prof. Yong Yue (岳勇)](https://www.xjtlu.edu.cn/en/study/departments/academic-departments/computer-science-and-software-engineering/department-staff/academic-staff/staff/yong-yue).
 
-I recently completed a three-month internship in AIGC research at [the State Key Laboratory of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), advised by [Prof. Xiaogang Jin (金小刚)](). I have also interned at companies like China Mobile and China Telecom in the past. 
+I recently completed a three-month internship in AIGC research at [the State Key Laboratory of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), advised by [Prof. Xiaogang Jin (金小刚)](https://person.zju.edu.cn/0095192). I have also interned at companies like China Mobile and China Telecom in the past. 
 
 My research interest includes **computer vision**, **multimodal**, and **AI-generated content**. 
 
@@ -58,11 +58,11 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 - 基于 Android Things 的 LED 灯开关试验探索, **Xinrui Lin**, *电脑知识与技术*, 2018
 
 # 🎖️ Honors and Awards
-- *2022.7* BSc (Hons) Information and Computing Science – First Class. 
+- *2022.7* BSc Information and Computing Science – First Class Honors. 
 
 # 📖 Educations
 - *2022.09 - 2024.07 (now)*, MSc Advanced Design Informatics, the University of Edinburgh, Edinburgh, United Kingdom. 
-- *2018.09 - 2022.07*, BSc (Hons) Information and Computing Science - First Class, Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China. 
+- *2018.09 - 2022.07*, BSc Information and Computing Science, Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China. 
 
 <!--
 # 💬 Invited Talks
@@ -78,3 +78,4 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 
 # 🪐 Other
 <span class='anchor' id='-Other'></span>
+### 📷 Photos
