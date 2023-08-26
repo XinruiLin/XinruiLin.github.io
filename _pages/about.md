@@ -57,7 +57,7 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 
 - 基于 Android Things 的 LED 灯开关试验探索, **Xinrui Lin**, *电脑知识与技术*, 2018
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - *2022.7* BSc (Hons) Information and Computing Science – First Class. 
 
 # 📖 Educations
