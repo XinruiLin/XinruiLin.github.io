@@ -75,3 +75,6 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 - *2021.07 - 2021.08*, Big data management, China Mobile Limited, Quanzhou, China.
 - *2020.07 - 2020.08*, System demand analysis and support, China Mobile Limited, Quanzhou, China.
 - *2019.06 - 2019.06*, Engineering Construction Management, China Telecom Limited, Quanzhou, China.
+
+# 🪐 Other
+<span class='anchor' id='about-me'></span>
