@@ -51,25 +51,27 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 <!--
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -->
-- A cross-augmentation method based on YOLOX target detection algorithm. 
+- A cross-augmentation method based on the YOLOX target detection algorithm. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- 基于 Android Things 的 LED 灯开关试验探索, **Xinrui Lin**, *电脑知识与技术*, 2018
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.7* BSc (Hons) Information and Computing Science – First Class. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2024.07 (now)*, MSc Advanced Design Informatics, the University of Edinburgh, Edinburgh, United Kingdom. 
+- *2018.09 - 2022.07*, BSc (Hons) Information and Computing Science - First Class, Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China. 
 
 <!--
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.06 - 2023.09*, Research intern, [the State Key Laboratory of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), Hangzhou, China.
+- *2021.07 - 2021.08*, Big data management, China Mobile Limited, Quanzhou, China.
+- *2020.07 - 2020.08*, System demand analysis and support, China Mobile Limited, Quanzhou, China.
+- *2019.06 - 2019.06*, Engineering Construction Management, China Telecom Limited, Quanzhou, China.
