@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Xinrui Lin"
+description              : "Student in MSc Advanced Design Informatics, University of Edinburgh. Focusing on Computer Vision, AIGC, Multimodal."
 repository               : "XinruiLin/XinruiLin.github.io"
 google_scholar_stats_use_cdn : True
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "XinruiLin"
+  name             : "Xinrui Lin"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "The University of Edinburgh"
   location         : "Edinburgh, United Kingdom"
