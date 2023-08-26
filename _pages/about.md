@@ -40,7 +40,7 @@ I come from Quanzhou, Fujian, China (known as the cultural capital of East Asia)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ACCTSDB.jpeg' alt="ACCTSDB" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 CCTSDB dataset enhancement based on a cross-augmentation method for image datasets
