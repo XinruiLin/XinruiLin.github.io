@@ -18,9 +18,9 @@ redirect_from:
 # 👨‍🎓 About Me
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student in Advanced Design Informatics (MSc-21 months) at the School of Informatics, [the University of Edinburgh](https://www.ed.ac.uk/). Expected graduation in July 2024. I spent four years of my undergraduate studies at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), advised by [Prof. Yong Yue (岳勇)](https://www.xjtlu.edu.cn/en/study/departments/academic-departments/computer-science-and-software-engineering/department-staff/academic-staff/staff/yong-yue).
+I am a Master's student in Advanced Design Informatics (MSc-21 months) at the School of Informatics, [the University of Edinburgh](https://www.ed.ac.uk/). Expected graduation in July 2024. I spent four years of my undergraduate studies at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), advised by [Prof. Yong Yue (岳勇)](https://www.xjtlu.edu.cn/en/study/departments/academic-departments/computer-science-and-software-engineering/department-staff/academic-staff/staff/yong-yue) and assessed by [Dr. Xiaohui Zhu (朱晓辉)](https://www.xjtlu.edu.cn/en/study/departments/school-of-advanced-technology/computer-science-and-software-engineering/department-staff/academic-staff/staff/xiaohui-zhu).
 
-I recently completed a three-month internship in AIGC research at [the State Key Laboratory of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), advised by [Prof. Xiaogang Jin (金小刚)](https://person.zju.edu.cn/0095192). I have also interned at companies like China Mobile and China Telecom in the past. 
+I recently completed a three-month internship in AIGC research at [the State Key Laboratory of CAD&CG, Zhejiang University (浙江大学CAD&CG国家级重点实验室)](http://www.cad.zju.edu.cn/english.html), advised by [Prof. Xiaogang Jin (金小刚)](https://person.zju.edu.cn/0095192). In addition, I participated in an autonomous driving project led by [Dr. Feng Chen (陈峰)]() at [Fuzhou University](https://www.fzu.edu.cn/). I have also interned at companies like China Mobile and China Telecom in the past. 
 
 My research interest includes **computer vision**, **multimodal**, and **AI-generated content**. 
 
@@ -34,6 +34,7 @@ I come from [Quanzhou](https://en.wikipedia.org/wiki/Quanzhou), Fujian, China. I
 
 
 # 🔥 News
+
 - *2023.03*: &nbsp;✨ My bachelor's thesis is currently under review by the Journal of Intelligent Data Analysis (JCR Q4). 
 
 
