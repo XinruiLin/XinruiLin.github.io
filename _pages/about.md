@@ -22,14 +22,14 @@ I am a Master's student in Advanced Design Informatics (MSc-21 months) at the Sc
 
 I recently completed a three-month internship in AIGC research at [the State Key Laboratory of CAD&CG, Zhejiang University (浙江大学CAD&CG国家级重点实验室)](http://www.cad.zju.edu.cn/english.html), advised by [Prof. Xiaogang Jin (金小刚)](https://person.zju.edu.cn/0095192). In addition, I participated in an autonomous driving project led by [Dr. Feng Chen (陈峰)](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T14031) at [Fuzhou University](https://www.fzu.edu.cn/). I have also interned at companies like China Mobile and China Telecom in the past. 
 
-My research interest includes **computer vision**, **multimodal**, and **AI-generated content**. 
+My research interest includes **Human-AI interaction**, **Generative AI** **computer vision**, and **multimodal**. 
 
 <!--
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> 
 (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-I come from [Quanzhou](https://en.wikipedia.org/wiki/Quanzhou), Fujian, China. I have a passion for travel and photography (my favorite photos from my travels are shown at the bottom of the webpage). My aspiration is to use AIGC to help people generate photos of themselves with world-famous landmarks.
+I come from [Quanzhou](https://en.wikipedia.org/wiki/Quanzhou), Fujian, China. I have a passion for travel and photography (my favorite photos from my travels are shown at the bottom of the webpage). My current aspiration is to design better interaction tools between humans and generative AI, especially the T2I model.
 
 
 
