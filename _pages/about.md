@@ -22,7 +22,7 @@ I am a Master's student in Advanced Design Informatics (MSc-21 months) at the Sc
 
 I recently completed a three-month internship in AIGC research at [the State Key Laboratory of CAD&CG, Zhejiang University (浙江大学CAD&CG国家级重点实验室)](http://www.cad.zju.edu.cn/english.html), advised by [Prof. Xiaogang Jin (金小刚)](https://person.zju.edu.cn/0095192). In addition, I participated in an autonomous driving project led by [Dr. Feng Chen (陈峰)](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T14031) at [Fuzhou University](https://www.fzu.edu.cn/). I have also interned at companies like China Mobile and China Telecom in the past. 
 
-My research interest includes **Human-AI interaction**, **Generative AI** **computer vision**, and **multimodal**. 
+My research interest includes **Human-AI interaction**, **Generative AI**, **computer vision**, and **multimodal**. 
 
 <!--
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> 
