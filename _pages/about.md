@@ -29,7 +29,7 @@ I have published more than 100 papers at the top international AI conferences wi
 (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-I come from [Quanzhou](https://en.wikipedia.org/wiki/Quanzhou), Fujian, China. I have a passion for travel and photography (my favorite photos from my travels are shown at the bottom of the webpage). My current aspiration is to design better interaction tools between humans and generative AI, especially the T2I model.
+I come from [Quanzhou](https://en.wikipedia.org/wiki/Quanzhou), Fujian, China. I have a passion for travel and photography (my favorite photos from my travels will be shown at the bottom of the webpage). My current aspiration is to design better interaction tools between humans and generative AI, especially the T2I model.
 
 
 
