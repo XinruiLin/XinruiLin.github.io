@@ -52,7 +52,7 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 <!--
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -->
-- A cross-augmentation method based on the YOLOX target detection algorithm. 
+- A cross-augmentation method for traffic image datasets based on the YOLOX target detection algorithm to fill the gap in comprehensive Chinese traffic datasets. 
 </div>
 </div>
 
