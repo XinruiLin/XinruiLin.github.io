@@ -35,13 +35,13 @@ I come from [Quanzhou](https://en.wikipedia.org/wiki/Quanzhou), Fujian, China. I
 
 # 🔥 News
 
-- *2023.11.26*: &nbsp;✨ My bachelor's thesis is accepted by the Journal of Intelligent Data Analysis, IOS Press. 
+- *2023.11.26*: &nbsp;✨ My bachelor's thesis is accepted by the Journal of Intelligent data analysis, IOS Press. 
 
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent Data Analysis</div><img src='images/ACCTSDB.jpeg' alt="ACCTSDB" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent data analysis</div><img src='images/ACCTSDB.jpeg' alt="ACCTSDB" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 CCTSDB dataset enhancement based on a cross-augmentation method for image datasets
