@@ -20,7 +20,7 @@ redirect_from:
 
 I am a Master's student in Advanced Design Informatics (MSc-21 months) at the School of Informatics, [the University of Edinburgh](https://www.ed.ac.uk/), supervised by [Prof. John Vines](https://www.designinformatics.org/person/john-vines/), expected graduation in July 2024. I spent four years of my undergraduate studies at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), advised by [Prof. Yong Yue (岳勇)](https://www.xjtlu.edu.cn/en/study/departments/academic-departments/computer-science-and-software-engineering/department-staff/academic-staff/staff/yong-yue) and assessed by [Dr. Xiaohui Zhu (朱晓辉)](https://www.xjtlu.edu.cn/en/study/departments/school-of-advanced-technology/computer-science-and-software-engineering/department-staff/academic-staff/staff/xiaohui-zhu).
 
-I recently completed a three-month internship in AIGC research at [the State Key Laboratory of CAD&CG, Zhejiang University (浙江大学CAD&CG国家级重点实验室)](http://www.cad.zju.edu.cn/english.html), advised by [Prof. Xiaogang Jin (金小刚)](https://person.zju.edu.cn/0095192). In addition, I have also interned at companies like China Mobile and China Telecom in the past. 
+I recently completed a three-month internship in AI-generated content research at [the State Key Laboratory of CAD&CG, Zhejiang University (浙江大学CAD&CG国家级重点实验室)](http://www.cad.zju.edu.cn/english.html), advised by [Prof. Xiaogang Jin (金小刚)](https://person.zju.edu.cn/0095192). In addition, I have also interned at companies like China Mobile and China Telecom in the past. 
 
 My research interest includes **Human-computer interaction**, **Generative AI**, **Computer Vision**, and **Multimodal**. 
 
