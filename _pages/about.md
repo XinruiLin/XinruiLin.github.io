@@ -41,6 +41,20 @@ I come from [Quanzhou](https://en.wikipedia.org/wiki/Quanzhou), Fujian, China. I
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/Behavior_frmework.pdf' alt="ACCTSDB" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Seeking Inspiration through Human-LLM Interaction
+
+**Xinrui Lin**, Heyan Huang, Kaihuang Huang, Xin Shu, John Vines
+
+<!--
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-->
+- Seeking Inspiration through Human-LLM Interaction. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent data analysis</div><img src='images/ACCTSDB.jpeg' alt="ACCTSDB" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
