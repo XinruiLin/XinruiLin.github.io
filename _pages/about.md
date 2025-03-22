@@ -18,9 +18,9 @@ redirect_from:
 # 👨‍🎓 About Me
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student in Advanced Design Informatics (MSc-21 months) at the School of Informatics, [the University of Edinburgh](https://www.ed.ac.uk/), supervised by [Prof. John Vines](https://www.designinformatics.org/person/john-vines/), expected graduation in July 2024. I spent four years of my undergraduate studies at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), advised by [Prof. Yong Yue (岳勇)](https://www.xjtlu.edu.cn/en/study/departments/academic-departments/computer-science-and-software-engineering/department-staff/academic-staff/staff/yong-yue) and assessed by [Dr. Xiaohui Zhu (朱晓辉)](https://www.xjtlu.edu.cn/en/study/departments/school-of-advanced-technology/computer-science-and-software-engineering/department-staff/academic-staff/staff/xiaohui-zhu).
+I am a PhD student in Computer Science at Beijing Institute of Technology, supervised by [Prof. Heyan Huang](https://cs.bit.edu.cn/szdw/jsml/bssds/172f42bb4b8742ce8d91e88e2680b0b0.htm). In the past, I got a Master's degree in Advanced Design Informatics (MSc-21 months) at the School of Informatics, the University of Edinburgh, supervised by [Prof. John Vines](https://www.designinformatics.org/person/john-vines/). I spent four years of my undergraduate studies at Xi'an Jiaotong-Liverpool University, advised by [Prof. Yong Yue (岳勇)](https://www.xjtlu.edu.cn/en/study/departments/academic-departments/computer-science-and-software-engineering/department-staff/academic-staff/staff/yong-yue) and assessed by [Dr. Xiaohui Zhu (朱晓辉)](https://www.xjtlu.edu.cn/en/study/departments/school-of-advanced-technology/computer-science-and-software-engineering/department-staff/academic-staff/staff/xiaohui-zhu).
 
-I recently completed a three-month internship in AI-generated content research at [the State Key Laboratory of CAD&CG, Zhejiang University (浙江大学CAD&CG国家级重点实验室)](http://www.cad.zju.edu.cn/english.html), advised by [Prof. Xiaogang Jin (金小刚)](https://person.zju.edu.cn/0095192). In addition, I have also interned at companies like China Mobile and China Telecom in the past. 
+I was an intern in AI-generated content research at [the State Key Laboratory of CAD&CG, Zhejiang University (浙江大学CAD&CG国家级重点实验室)](http://www.cad.zju.edu.cn/english.html), advised by [Prof. Xiaogang Jin (金小刚)](https://person.zju.edu.cn/0095192). In addition, I have also interned at companies like China Mobile and China Telecom in the past. 
 
 My research interest includes **Human-computer interaction**, **Generative AI**, **Computer Vision**, and **Multimodal**. 
 
@@ -56,14 +56,17 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 </div>
 </div>
 
-- 基于 Android Things 的 LED 灯开关试验探索, **Xinrui Lin**, *电脑知识与技术*, 2018
+- [Object Detection in Aerial Images Using DOTA Dataset: A Survey](https://doi.org/10.1016/j.jag.2024.104208). Ziyi Chen, Huayou Wang, Xinyuan Wu, Jing Wang, **Xinrui Lin**, Cheng Wang, Kyle Gao, Michael Chapman, Dilong Li. *International Journal of Applied Earth Observation and Geoinformation*, 134, p.104208. 2024 Nov
+- 基于 Android Things 的 LED 灯开关试验探索. **Xinrui Lin**. *电脑知识与技术*. 2018
 
 # 🎖️ Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
+- *2024.7* MSc Advanced Design Informatics – Merit. 
 - *2022.7* BSc Information and Computing Science – First Class Honors. 
 
 # 📖 Educations
-- *2022.09 - 2024.07 (now)*, MSc Advanced Design Informatics, the University of Edinburgh, Edinburgh, United Kingdom. 
+- *2024.09 - (now)*, PhD Computer Science, Beijing Institute of Technology, Beijing, China. 
+- *2022.09 - 2024.07*, MSc Advanced Design Informatics, the University of Edinburgh, Edinburgh, United Kingdom. 
 - *2018.09 - 2022.07*, BSc Information and Computing Science, Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China. 
 
 <!--
