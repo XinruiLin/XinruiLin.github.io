@@ -41,7 +41,7 @@ I come from [Quanzhou](https://en.wikipedia.org/wiki/Quanzhou), Fujian, China. I
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/Behavior_frmework.pdf' alt="ACCTSDB" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/Behavior_framework.pdf' alt="Behavior framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Seeking Inspiration through Human-LLM Interaction
