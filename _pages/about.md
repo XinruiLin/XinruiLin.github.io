@@ -70,7 +70,8 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 - A cross-augmentation method for traffic image datasets based on the YOLOX target detection algorithm to fill the gap in comprehensive Chinese traffic datasets. 
 </div>
 </div>
-
+-->
+<!--
 - [Object Detection in Aerial Images Using DOTA Dataset: A Survey](https://doi.org/10.1016/j.jag.2024.104208). Ziyi Chen, Huayou Wang, Xinyuan Wu, Jing Wang, **Xinrui Lin**, Cheng Wang, Kyle Gao, Michael Chapman, Dilong Li. *International Journal of Applied Earth Observation and Geoinformation*, 134, p.104208. 2024 Nov
 - 基于 Android Things 的 LED 灯开关试验探索. **Xinrui Lin**. *电脑知识与技术*. 2018
 -->
@@ -90,9 +91,8 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-
-# 💻 Internships
 <!--
+# 💻 Internships
 - *2023.06 - 2023.09*, Research intern, [the State Key Laboratory of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), Hangzhou, China.
 - *2021.07 - 2021.08*, Big data management, China Mobile Limited, Quanzhou, China.
 - *2020.07 - 2020.08*, System demand analysis and support, China Mobile Limited, Quanzhou, China.
