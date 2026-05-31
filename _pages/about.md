@@ -64,9 +64,7 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 **Xinrui Lin**, Wei Wang, Xiaohui Zhu, Yong Yue
 
 **Bachelor's thesis** 
-<!--
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--->
+
 - A cross-augmentation method for traffic image datasets based on the YOLOX target detection algorithm to fill the gap in comprehensive Chinese traffic datasets. 
 </div>
 </div>
