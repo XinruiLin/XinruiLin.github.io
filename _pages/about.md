@@ -55,6 +55,7 @@ Seeking Inspiration through Human-LLM Interaction
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Intelligent data analysis</div><img src='images/ACCTSDB.jpeg' alt="ACCTSDB" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -72,7 +73,8 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 
 - [Object Detection in Aerial Images Using DOTA Dataset: A Survey](https://doi.org/10.1016/j.jag.2024.104208). Ziyi Chen, Huayou Wang, Xinyuan Wu, Jing Wang, **Xinrui Lin**, Cheng Wang, Kyle Gao, Michael Chapman, Dilong Li. *International Journal of Applied Earth Observation and Geoinformation*, 134, p.104208. 2024 Nov
 - 基于 Android Things 的 LED 灯开关试验探索. **Xinrui Lin**. *电脑知识与技术*. 2018
-
+-->
+  
 # 🎖️ Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
 - *2024.7* MSc Advanced Design Informatics – Merit. 
@@ -90,10 +92,12 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 
 
 # 💻 Internships
+<!--
 - *2023.06 - 2023.09*, Research intern, [the State Key Laboratory of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), Hangzhou, China.
 - *2021.07 - 2021.08*, Big data management, China Mobile Limited, Quanzhou, China.
 - *2020.07 - 2020.08*, System demand analysis and support, China Mobile Limited, Quanzhou, China.
 - *2019.06 - 2019.06*, Engineering Construction Management, China Telecom Limited, Quanzhou, China.
+-->
 
 <!--
 # 🪐 Other
