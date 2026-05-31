@@ -22,6 +22,7 @@ I am a PhD student in Computer Science at Beijing Institute of Technology, super
 
 I was an intern in AI-generated content research at [the State Key Laboratory of CAD&CG, Zhejiang University (浙江大学CAD&CG国家级重点实验室)](http://www.cad.zju.edu.cn/english.html), advised by [Prof. Xiaogang Jin (金小刚)](https://person.zju.edu.cn/0095192). In addition, I have also interned at companies like China Mobile and China Telecom in the past. 
 
+<!--
 My research interest includes **Human-computer interaction**, **Generative AI**, **Computer Vision**, and **Multimodal**. 
 
 <!--
@@ -101,4 +102,5 @@ CCTSDB dataset enhancement based on a cross-augmentation method for image datase
 # 🪐 Other
 <span class='anchor' id='-Other'></span>
 ### 📷 Photos
+-->
 -->
